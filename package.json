@@ -1,0 +1,15 @@
+{
+  "name": "aesirx-sso-concordium-verification",
+  "version": "1.0.0",
+  "license": "GPL-3.0-only",
+  "description": "CLI verification for Concordium signed message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AesirX",
+  "dependencies": {
+    "@concordium/node-sdk": "^6",
+    "dotenv": "^16"
+  }
+}
